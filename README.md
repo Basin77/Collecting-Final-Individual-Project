@@ -9,8 +9,11 @@ During the research process, the research tools I mainly used were word clouds, 
 
 ## CSV Profile
 Title (the name of the news)
+
 Time (the release time)
+
 Description (the text content of the news)
+
 Source (website)
 
 ## Goal of the Analysis
