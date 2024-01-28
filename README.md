@@ -17,5 +17,7 @@ Source (website)
 I wish to examine several aspects of news release timing, news text themes, news headline keywords, and sentiment analysis.
 
 1.What are the differences in the emotional attitudes of the texts presented for both sides of the story?
+
 2.Did the content of the reports change over time?
+
 3.What is the theme model of the news?
